@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "description": "coba heroku",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
